@@ -22,7 +22,7 @@ The H-1B visa in particular makes for an interesting study, because the visa exi
 
 This project is not about:
 - Whether the current state of popular AI (mostly LLMs) generate business value. 
-- Flaws in the current visa & immigration process
+- Flaws in the current visa & immigration process. From Madeline Zavodny, Economics professor @ UNF "*The underlying issue is that U.S. immigration policy requires most employers to do labor market testing at the PERM stage, when they are sponsoring a foreign worker for permanent residence, not at the H-1B stage*"
 
 It is looking to **examine the narrative that AI-driven efficiency gains is the cause of US based layoffs**, with the suggestion that less headcount is now needed for the business to maintain results. 
 
