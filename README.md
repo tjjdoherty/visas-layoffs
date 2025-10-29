@@ -8,14 +8,24 @@ This project begins with a hypothesis:
 #### The stream of layoffs in the tech industry since 2022 is not about accommodating for AI efficiency gains, it is about the insourcing of temporary workers as a cheaper substitute and correcting overhiring in the pandemic.
 
 To examine this, I have pulled from two data sources:
-- The [H-1B Employer Data Hub]("https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub"), showing employer petitions for H1B visas from 2017 to October 2025
-- [Layoffs.fyi]("https://layoffs.fyi"), where the author Roger Lee (credit) has kept a database of news sources reporting on layoffs since COVID began
+- The [H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub), showing employer petitions for H1B visas from 2017 to October 2025
+- [Layoffs.fyi](https://layoffs.fyi), where the author Roger Lee (credit) has kept a database of news sources reporting on layoffs since COVID began
 
 
 ## Background
-This project was inspired after Salesforce announced layoffs of 4,000 people in September 2025 *"because I need less heads [with AI]"*. What has been less public is that between 2023-25, Salesforce has had 3,683 H-1B visas approved by USCIS (U.S. Citizen & Immigration Services)
 
-You can make the argument that the type of role being hired/laid off is important, but AI is being touted as a threat to virtually all technology company roles, from engineering to customer success. It is being touted in nearly all layoff notices from a wide array of organisations. 
+This project was inspired after Salesforce announced layoffs of 4,000 people in September 2025 *"because I need less heads [with AI]"* (CEO Benioff) and an online commentator pointed out that between 2023-25, Salesforce has had 3,683 H-1B visas approved by USCIS (U.S. Citizen & Immigration Services), nearly the same figure being insourced.
 
-Furthermore, the H-1B visa is a intended for jobs requiring specialised skills that the employer has been unable to find in a US Citizen. All else being equal, it's quite unlikely an ever expanding pool of laid off American tech workers does not possess the skillset for nearly the same number of roles being hired for, in Salesforce's case at least.
+You can make the argument that the type of role being hired for or laid off is important, but AI is being touted as a threat to virtually all technology company roles, from engineering to customer success. It is also being quoted as the motive in nearly all layoff notices since early 2023, when ChatGPT became globally popular. 
 
+The H-1B visa in particular makes for an interesting study, because the visa exists for sponsoring foreign workers with specialized skills (at least a Bachelor's degree) that employers cannot find in US Citizen applicants. Essentially, it is the solution when domestic talent is inadequate. In Salesforce's case, how is this visa still a solution when every U.S. tech layoff is expanding the pool of available American talent? At the very least, the scale of H-1B insourcing should be significantly lower than any scale of layoff, if the specialized skills are truly what is being sought with this visa. 
+
+This project is not about whether AI delivers value; that is for the individual employer to decide. It exists to **challenge the narrative that AI-driven efficiency gains is the cause of US based layoffs**, with the suggestion that less headcount is now needed for the business to maintain results. 
+
+Unless a group is directly involved in the cutting edge of AI research or other technology (a very small subset), the H-1B visa data can challenge that headcount is actually dropping. It could instead be an exercise in 'insourcing' with employer-dependent status in the country, in spite of an increasingly large domestic workforce available after years of layoffs. This also ignores any growth in Global Capacity Centres (GCCs), which already generate about $64bn in revenue and is expected to hit $110bn by 2030.
+
+## Areas of inquiry
+
+- Companies with the largest H-1B petitions receiving the most attention
+- Companies making the biggest layoffs receiving the most attention
+- Comparing the mega cap / Mag 7 tech companies in these two categories
