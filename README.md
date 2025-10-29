@@ -22,9 +22,10 @@ The H-1B visa in particular makes for an interesting study, because the visa exi
 
 This project is not about:
 - Whether AI in its current state (mostly LLMs such as ChatGPT) generates P&L business value in its own right. 
-    - I have read the [MIT study](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf) showing 95% of companies saw no meaningful P&L impact from post-pilot adoption. I have also read criticisms of it, but I don't feel there are any unbiased sources in this debate with so much money and market hype invested here.
-- Identifying any flaws in the current H-1B & immigration process. The H-1B visa data is a well-documented dataset used to potentiallt show that companies *do* in fact, need labour contrary to the AI narrative. 
-    - (use later) From Madeline Zavodny, Economics professor @ UNF "*The underlying issue is that U.S. immigration policy requires most employers to do labor market testing at the PERM stage, when they are sponsoring a foreign worker for permanent residence, not at the H-1B stage*"
+    - I have read the [MIT study](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf) showing 95% of companies saw no meaningful P&L impact from post-pilot adoption. I have also read criticisms of it, but I don't feel there are any unbiased sources in a debate with so much money and market hype invested here.
+- Identifying any flaws in the current H-1B and immigration process. The H-1B visa data is a well-documented dataset used to potentiallt show that companies *do* in fact, need labour, contrary to the AI narrative. 
+    - The only exception will be to examine the particular stages of H-1B if labor market testing is done and the dearth of American talent should be apparent. This should only generally apply to tech companies, not medicine or academia for example who also use H-1B frequently
+    - (later if needed) From Madeline Zavodny, Economics Professor @ UNF "*The underlying issue is that U.S. immigration policy requires most employers to do labor market testing at the PERM stage, when they are sponsoring a foreign worker for permanent residence, not at the H-1B stage*"
 
 It is looking to **examine the narrative that AI-driven efficiency gains is the cause of US based layoffs**, with the suggestion that less headcount is now needed for the business to maintain results. 
 
