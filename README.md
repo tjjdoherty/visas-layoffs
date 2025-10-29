@@ -18,11 +18,15 @@ This project was inspired after Salesforce announced layoffs of 4,000 people in 
 
 You can make the argument that the type of role being hired for or laid off is important, but AI is being touted as a threat to virtually all technology company roles, from engineering to customer success. It is also being quoted as the motive in nearly all layoff notices since early 2023, when ChatGPT became globally popular. 
 
-The H-1B visa in particular makes for an interesting study, because the visa exists for sponsoring foreign workers with specialized skills (at least a Bachelor's degree) that employers cannot find in US Citizen applicants. Essentially, it is the solution when domestic talent is inadequate. In Salesforce's case, how is this visa still a solution when every U.S. tech layoff is expanding the pool of available American talent? At the very least, the scale of H-1B insourcing should be significantly lower than any scale of layoff, if the specialized skills are truly what is being sought with this visa. 
+The H-1B visa in particular makes for an interesting study, because the visa exists for sponsoring foreign workers with specialized skills (at least a Bachelor's degree) that employers cannot find in US Citizen applicants. Essentially, it is the solution when domestic talent is inadequate. In Salesforce's case, how is this visa still a solution when every U.S. tech layoff is expanding the pool of available American tech talent? At the very least, the scale of H-1B insourcing should be significantly lower than any scale of layoff, if the specialized skills are truly what is being sought with this visa. 
 
-This project is not about whether AI delivers value; that is for the individual employer to decide. It exists to **challenge the narrative that AI-driven efficiency gains is the cause of US based layoffs**, with the suggestion that less headcount is now needed for the business to maintain results. 
+This project is not about:
+- Whether the current state of popular AI (mostly LLMs) generate business value. 
+- Flaws in the current visa & immigration process
 
-Unless a group is directly involved in the cutting edge of AI research or other technology (a very small subset), the H-1B visa data can challenge that headcount is actually dropping. It could instead be an exercise in 'insourcing' with employer-dependent status in the country, in spite of an increasingly large domestic workforce available after years of layoffs. This also ignores any growth in Global Capacity Centres (GCCs), which already generate about $64bn in revenue and is expected to hit $110bn by 2030.
+It is looking to **examine the narrative that AI-driven efficiency gains is the cause of US based layoffs**, with the suggestion that less headcount is now needed for the business to maintain results. 
+
+Unless a group is directly involved in the cutting edge of AI research or other technology (a very small subset), the H-1B visa data can challenge that headcount is actually dropping. It could instead be an exercise in 'insourcing', in spite of an increasingly large domestic technology workforce available after years of layoffs. This also ignores any growth in Global Capacity Centres (GCCs), which already generate about $64bn in revenue and is expected to hit $110bn by 2030.
 
 ## Areas of inquiry
 
