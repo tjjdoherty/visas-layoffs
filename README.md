@@ -3,9 +3,9 @@ An investigation into the relationship between U.S. Layoffs and H1B Visa petitio
 
 ## Project Scope
 
-This project begins with a hypothesis:
+This project begins with a question:
 
-#### The stream of layoffs in the tech industry since 2022 is not about accommodating for AI efficiency gains, it is about the insourcing of temporary workers as a cheaper substitute and correcting overhiring in the pandemic.
+#### To what extent is AI efficiency a smokescreen reason for technology industry layoffs, with alternative labour being substituted?
 
 To examine this, I have pulled from two data sources:
 - The [H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub), showing employer petitions for H1B visas from 2017 to October 2025
